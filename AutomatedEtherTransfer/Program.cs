@@ -39,6 +39,9 @@ namespace AutomatedEtherTransfer
 
         private static async Task<TransactionReceipt> SendEther(Account account, Records recipient, Web3 web3)
         {
+            //web3.Eth.
+            //Nethereum.
+
             var transactionPolling = web3.TransactionManager.TransactionReceiptService;
 
             //var currentBalance = await web3.Eth.GetBalance.SendRequestAsync(account.Address);
