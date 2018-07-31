@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedEtherTransfer", "AutomatedEtherTransfer\AutomatedEtherTransfer.csproj", "{D38D99A7-5A92-43D1-8A72-AE9A03E842BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedEtherTransfer_Windows", "AutomatedEtherTransfer_Windows\AutomatedEtherTransfer_Windows.csproj", "{3223DA4F-F2C4-49E5-AA86-75335DC0098F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D38D99A7-5A92-43D1-8A72-AE9A03E842BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D38D99A7-5A92-43D1-8A72-AE9A03E842BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D38D99A7-5A92-43D1-8A72-AE9A03E842BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3223DA4F-F2C4-49E5-AA86-75335DC0098F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3223DA4F-F2C4-49E5-AA86-75335DC0098F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3223DA4F-F2C4-49E5-AA86-75335DC0098F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3223DA4F-F2C4-49E5-AA86-75335DC0098F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
